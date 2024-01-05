@@ -2,7 +2,7 @@ repo_name: azcraze/register
 report_id: 359a2cf890daf7c08ecbbbe8558f392c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-01T17:35:00+00:00'
+timestamp: '2024-01-05T08:13:12+00:00'
 requested_by: azcraze
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/azcraze/register
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -27,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/azcraze/register
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/azcraze/register/blob/main/package.json
   detection_source: package.json
   last_updated_by: Akshay Nair
   last_updated_on: 2020-10-04 07:52:43.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/azcraze/register/blob/main/domains/eclipse.json
   detection_source: domains/eclipse.json
   last_updated_by: William Harrison
   last_updated_on: 2023-03-04 10:44:15.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/azcraze/register
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -68,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/azcraze/register/blob/main/.github/workflows/bot.yml
   detection_source: ".github/workflows/bot.yml"
   last_updated_by: IS A DEV
   last_updated_on: 2022-07-18 19:45:58.000000000 Z
@@ -80,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/4348/ET9J1uY-_400x400.png
+  detection_source_url: https://github.com/azcraze/register
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -89,6 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/azcraze/register/blob/main/package.json
   detection_source: package.json
   last_updated_by: Akshay Nair
   last_updated_on: 2020-10-04 07:52:43.000000000 Z
@@ -115,6 +123,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/azcraze/register
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
